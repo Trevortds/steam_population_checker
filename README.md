@@ -9,7 +9,7 @@ Only dependency is notify2 (which also needs dbus-python installed separately fo
 
 `$ pip install notify2 dbus-python`
 
-Make sure your pip is the same as the one you're running the program with, you may need to use `pip3`. 
+Make sure your pip is in the same environment as the one you're running the program with, you may need to use `pip3`. 
 
 You will need: 
 
