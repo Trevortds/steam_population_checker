@@ -16,7 +16,7 @@ You will need:
 * The usually 6 or 7 digit steam ID of the game you want to track (in the URL of the steam page after /app/)
 * A Steam web API key, obtained here: https://steamcommunity.com/dev/apikey
 
-To start in terminal and run in background:
+To start in terminal and run in background (linux and mac):
 
 ```
 $ python3 path/to/steam_population_checker.py 608800 20 [your key kere] &
