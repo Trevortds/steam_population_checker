@@ -9,8 +9,10 @@ Make sure your pip is the same as the one you're running the program with, you m
 
 To start in terminal and run in background:
 
-`$ python3 path/to/steam_population_checker.py 608800 20 [your key kere] &`
-`$ disown`
+```
+$ python3 path/to/steam_population_checker.py 608800 20 [your key kere] &
+$ disown
+```
 
 This will notify when there are at least 20 people playing 608800 (Guns of Icarus Alliance)
 
