@@ -11,6 +11,11 @@ Only dependency is notify2
 
 Make sure your pip is the same as the one you're running the program with, you may need to use `pip3`. 
 
+You will need: 
+
+* The usually 6 or 7 digit steam ID of the game you want to track (in the URL of the steam page after /app/)
+* A Steam web API key, obtained here: https://steamcommunity.com/dev/apikey
+
 To start in terminal and run in background:
 
 ```
