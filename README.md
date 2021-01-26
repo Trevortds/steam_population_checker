@@ -3,7 +3,7 @@ check the population of steam games, send notification when above threshold
 
 Only dependency is notify2
 
-`pip install notify2 dbus-python`
+`$ pip install notify2 dbus-python`
 
 Make sure your pip is the same as the one you're running the program with, you may need to use `pip3`. 
 
