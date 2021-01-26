@@ -1,6 +1,8 @@
 # steam_population_checker
 check the population of steam games, send notification when above threshold
 
+Python >= 3.6 required
+
 Only dependency is notify2
 
 `$ pip install notify2 dbus-python`
