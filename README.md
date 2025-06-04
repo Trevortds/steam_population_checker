@@ -19,7 +19,7 @@ You will need:
 To start in terminal and run in background (linux and mac):
 
 ```
-$ python3 path/to/steam_population_checker.py 608800 20 [your key kere] &
+$ python3 path/to/steam_population_checker.py 608800 20 [your key here] &
 $ disown
 ```
 
